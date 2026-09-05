@@ -36,7 +36,7 @@ Backend (Python):
 
 📌 Future Enhancements
 •	Cross-platform compatibility: Extend support to Linux and macOS.
-•	Multilingual support: Add recognition and response in Urdu, Arabic, and other languages.
+•	Multilingual support: Add recognition and response in Urdu, and other languages.
 •	Voice personalization: Let users select or upload custom voice packs.
 •	AI learning: Implement adaptive learning to better understand individual user patterns.
 •	Cloud sync: Backup preferences, logs, and conversation history.
